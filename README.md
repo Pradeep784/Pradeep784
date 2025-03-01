@@ -10,7 +10,9 @@
 🚀 Projects
 Here are a few projects I've worked on:
 **[NetflixGPT](https://github.com/Pradeep784/netflix-gpt)**
+
 Tech Stack: React.js, Firebase, Tailwind CSS, TMDB API, Gemini AI
+
 NetflixGPT is an AI-powered movie recommendation platform that uses Gemini AI to suggest personalized movies. Built with React.js for a seamless front-end experience, it fetches real-time data using the TMDB API. User authentication is handled via Firebase, ensuring secure sign-ins. The responsive interface was designed using Tailwind CSS for a modern, clean look. Users receive tailored suggestions based on their preferences, making it easy to discover new movies.
 
 **[Rent Your Requirements]**: A rental service application for cameras, bikes, cars, and more, developed using HTML, CSS, JavaScript, Bootstrap, and PHPMyAdmin for the backend.
